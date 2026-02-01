@@ -1,1 +1,56 @@
+Got a problem with some letters such as I and l
+I think I will swap these letters if there are no translation for a word with these characters
 
+Accuracy of the network: 81.39140271493213 %
+Accuracy of A: 79.41176470588235 %
+Accuracy of B: 85.29411764705883 %
+Accuracy of C: 82.3529411764706 %
+Accuracy of D: 85.29411764705883 %
+Accuracy of E: 79.41176470588235 %
+Accuracy of F: 79.41176470588235 %
+Accuracy of G: 88.23529411764706 %
+Accuracy of H: 82.3529411764706 %
+Accuracy of I: 50.0 %
+Accuracy of J: 79.41176470588235 %
+Accuracy of K: 82.3529411764706 %
+Accuracy of L: 88.23529411764706 %
+Accuracy of M: 85.29411764705883 %
+Accuracy of N: 82.3529411764706 %
+Accuracy of O: 79.41176470588235 %
+Accuracy of P: 85.29411764705883 %
+Accuracy of Q: 82.3529411764706 %
+Accuracy of R: 85.29411764705883 %
+Accuracy of S: 91.17647058823529 %
+Accuracy of T: 85.29411764705883 %
+Accuracy of U: 79.41176470588235 %
+Accuracy of V: 70.58823529411765 %
+Accuracy of W: 82.3529411764706 %
+Accuracy of X: 91.17647058823529 %
+Accuracy of Y: 79.41176470588235 %
+Accuracy of Z: 76.47058823529412 %
+Accuracy of a: 67.6470588235294 %
+Accuracy of b: 85.29411764705883 %
+Accuracy of c: 79.41176470588235 %
+Accuracy of d: 85.29411764705883 %
+Accuracy of e: 79.41176470588235 %
+Accuracy of f: 85.29411764705883 %
+Accuracy of g: 76.47058823529412 %
+Accuracy of h: 88.23529411764706 %
+Accuracy of i: 88.23529411764706 %
+Accuracy of j: 91.17647058823529 %
+Accuracy of k: 85.29411764705883 %
+Accuracy of l: 41.1764705882353 %
+Accuracy of m: 91.17647058823529 %
+Accuracy of n: 79.41176470588235 %
+Accuracy of o: 85.29411764705883 %
+Accuracy of p: 73.52941176470588 %
+Accuracy of q: 76.47058823529412 %
+Accuracy of r: 88.23529411764706 %
+Accuracy of s: 88.23529411764706 %
+Accuracy of t: 76.47058823529412 %
+Accuracy of u: 79.41176470588235 %
+Accuracy of v: 82.3529411764706 %
+Accuracy of w: 88.23529411764706 %
+Accuracy of x: 79.41176470588235 %
+Accuracy of y: 85.29411764705883 %
+Accuracy of z: 88.23529411764706 %
